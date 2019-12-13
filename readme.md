@@ -37,3 +37,6 @@ https://www.facebook.com/m.nakharin
 #ระบบพัฒนาด้วย PHP Laravel Framework 5.4.36
 #รองรับ PHP >= 5.6.4
 
+ขั้นตอนติดตั้ง
+
+https://www.youtube.com/watch?v=emnOVLuYrts
